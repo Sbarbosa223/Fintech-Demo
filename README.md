@@ -1,2 +1,1 @@
-# Fintech-Demo
-Demonstration
+# Fintech_Project
